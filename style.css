@@ -23,34 +23,3 @@
         border-radius: 20px;   
        animation: animation 2s linear 1s infinite;
     }
-/* 
-@keyframes animation {
-    0%{
-        transform: scale(1);
-        background: black;
-    }
-    25%{
-        transform: scale(2);
-        background: linear-gradient(90deg,pink,orange,red);
-    }
-    50%{
-         transform: skewX(20deg);
-        background: linear-gradient(lightblue,blue,darkblue);
-    }
-    75%{
-        transform: rotate(180deg);
-        background: linear-gradient(360deg, white,darkblue,black);
-    }
-    100%{
-        transform: translateX(50px);
-        background: linear-gradient(180deg,lightgreen,green,black);
-    }
-} 
-
-.box:hover{
-            background-color: blue;
-            border-radius: 50%;
-            transform: rotate(120deg);
-            border: 10px solid black;
-           transition: background-color 3s, border-radius 4s, border 2s,transform 1s;
-        } */
